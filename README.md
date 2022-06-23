@@ -1,4 +1,3 @@
 # Shine Hover Effect
  #
- Link: #
- https://lucasbizachi.github.io/Menu-responsivo/
+ Link:  https://lucasbizachi.github.io/Menu-responsivo/
