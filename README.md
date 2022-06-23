@@ -1,3 +1,5 @@
 # Shine Hover Effect
  #
- Link:  
+ Botão com hover effect.
+ #
+ Link: https://lucasbizachi.github.io/Shine-Hover-Effect/
